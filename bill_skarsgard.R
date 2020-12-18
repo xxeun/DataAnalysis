@@ -25,3 +25,5 @@ wordcloud(words = names(bill_text_word_freq),
           random.order = FALSE,
           min.freq = 5,
           scale = c(4,0,3))
+
+
